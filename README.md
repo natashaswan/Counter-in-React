@@ -8,10 +8,6 @@ Clone down this repository. You will need node and npm installed globally on you
 
 npm install
 
-## To Run Test Suite:
-
-npm test
-
 ## To Start Server:
 
 npm start
